@@ -17,14 +17,3 @@
 > _mudah-mudahan kami mendapatkan ilmu dan nilai yang baik di mk ini _
 
 ---
-
-## 📋 Sprint Backlog
-
-- [ ] Setup repository & struktur project
-- [ ] Membuat program manajemen tugas (JavaScript)
-- [ ] _____________________________
-- [ ] _____________________________
-
----
-
-## progres tracker
