@@ -19,6 +19,7 @@
 ---
 
 | Nim | Unit | Prodi |
+|------|----------|--------|
 |250504166|05|Informatika|
 |250504172|05|Informatika|
 |250504169|05|Informatika|
