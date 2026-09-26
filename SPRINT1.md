@@ -17,3 +17,18 @@
 > _mudah-mudahan kami mendapatkan ilmu dan nilai yang baik di mk ini _
 
 ---
+
+| unit | prodi | nim |
+|  05  |informatika|250504166|
+| 05   | infotmatika| 250504172 |
+| 05   | informatika| 250504169 |
+
+---
+
+## ternyata dari kami dari satu unit dan satu prodi
+
+> 💬 kendala kami:kami hanya sedikit mengetahuhi rpl 
+
+---
+
+## ✨ Kontribusi
