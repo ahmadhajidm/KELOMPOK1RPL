@@ -18,17 +18,16 @@
 
 ---
 
-| unit | prodi | nim |
-|  05  |informatika|250504166|
-| 05   | infotmatika| 250504172 |
-| 05   | informatika| 250504169 |
+| Nim | Unit | Prodi |
+|250504166|05|Informatika|
+|250504172|05|Informatika|
+|250504169|05|Informatika|
 
 ---
 
-## ternyata dari kami dari satu unit dan satu prodi
+## 🧠 Catatan: Ternyata kami dari satu unit dan satu prodi
 
-> 💬 kendala kami:kami hanya sedikit mengetahuhi rpl 
+
+> 💬 kendala: Kami hanya mengetahui sedikit tentang RPL
 
 ---
-
-## ✨ Kontribusi
